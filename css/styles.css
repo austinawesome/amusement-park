@@ -1,3 +1,20 @@
 .all-rides {
   display: none;
 }
+
+.little-rides {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+}
+.btn-primary {
+
+}
+.green-background {
+    color: green;
+  }
+.red-background {
+color: red;
+}
